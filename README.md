@@ -1,4 +1,4 @@
-#Who is Qiki?
+# Who is Qiki?
 
 Hi I am Qi Nohr Chen (but please call me Qiki), I am a Physics with Theoretical Physics student at the University of Manchester.
 I am intrested in  Complex Systems and Statistical Physics, Non-Linear Dynamics, Quantum Mechanics, Probability and Stochastic, Quantitative Fianance and Machine Learning and Data Science. Besides that I am also an avid fan of Volleyball and Music
