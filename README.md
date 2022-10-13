@@ -1,3 +1,5 @@
+#Who is Qiki?
+
 Hi I am Qi Nohr Chen (but please call me Qiki), I am a Physics with Theoretical Physics student at the University of Manchester.
 I am intrested in  Complex Systems and Statistical Physics, Non-Linear Dynamics, Quantum Mechanics, Probability and Stochastic, Quantitative Fianance and Machine Learning and Data Science. Besides that I am also an avid fan of Volleyball and Music
 I am currently undertaking a project in the Modeling of Language Evolution using Statistical Physics, which is a research field in Complex Systems and Statistical Physics and also my Bachelor Dissertation project where I have decided to do the optional simulations. I am also learning Machine Learning methods and will be learning C++ next semester in a Physics context.
