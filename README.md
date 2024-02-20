@@ -8,7 +8,8 @@ Hi I am Qi Nohr Chen (but please call me Qiki), I am a Physics with Theoretical 
 
 I am looking to collaborate on projects. I am always willing to learn more!
 
-Contact me via LinkedIn: 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/qnchen/)
+Contact me via LinkedIn: 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qnchen/)
+
 
 [![QiKi’s github stats](https://github-readme-stats.vercel.app/api?username=qikichen)]
 
