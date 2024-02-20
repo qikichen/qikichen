@@ -10,8 +10,6 @@ I am looking to collaborate on projects. I am always willing to learn more!
 
 Contact me via LinkedIn: www.linkedin.com/in/qnchen/
 
-[![QiKi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
 
