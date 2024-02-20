@@ -6,6 +6,6 @@ I undertook a project in the Modeling of Language Evolution using Statistical Ph
 I am looking to collaborate on projects. I am always willing to learn more!
 Reach out to me by sending me an InMail on LinkedIn: www.linkedin.com/in/qnchen/
 
-Languages I am comfortable in: Python, C/C++, Solidity, LaTex, CUDA
+Languages I am comfortable in: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), C/C++, Solidity, LaTex, CUDA
 Languages I am familiar with: Scala, Java, SQL
 
