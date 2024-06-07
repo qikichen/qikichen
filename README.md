@@ -8,7 +8,7 @@ Hi I am Qiki, I am a Physics with Theoretical Physics graduate from the Universi
 
 Contact me via **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qnchen/) 
 
-Contact me via **E-Mail**: q.chen@outlook.de
+Contact me via **E-Mail**: qnr.chen@gmail.com
 
 <u> *I am looking to collaborate on projects. I am always willing to learn more!* </u>
 
