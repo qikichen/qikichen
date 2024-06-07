@@ -1,6 +1,6 @@
 # About Me :wave:
 
-Hi I am Qiki, I am a Physics with Theoretical Physics graduate from the University of Manchester and currently a Masters Student in Computer Science at the University of Edinburgh. I am interested in High Performance Computing, Software Development and Quantum Computing. I am also proficient in data analysis and machine learning. Besides that I am also an avid fan of Volleyball and Music. I undertook a project in the Modeling of Language Evolution using Statistical Physics, which is a research field in Complex Systems and Statistical Physics, for my Bachelor Dissertation project where I have decided to do the optional simulations. Currently doing a project in GPU Accelerated Clustering and learning CUDA.
+Hi I am Qiki, I am a Physics with Theoretical Physics graduate from the University of Manchester and currently a Masters Student in Computer Science at the University of Edinburgh. I am interested in High Performance Computing, Software Development and Quantum Computing. I am also proficient in data analysis and machine learning. Besides that I am also an avid fan of Volleyball and Music. I undertook a project in the Modeling of Language Evolution using Statistical Physics, which is a research field in Complex Systems and Statistical Physics, for my Bachelor Dissertation project where I have decided to do the optional simulations. Currently working on AI Systems and Vector Databases.
 
 **Languages I am comfortable in**: *Python, C/C++, Solidity, LaTeX, CUDA*
 
