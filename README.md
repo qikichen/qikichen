@@ -1,6 +1,6 @@
 # About Me :wave:
 
-Hi I am Qiki :)
+Hi I am Qiki :D
 
 **Languages I am comfortable in**: *Python, C/C++, Solidity, LaTeX, CUDA, Java*
 
