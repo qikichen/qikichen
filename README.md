@@ -1,8 +1,6 @@
 # About Me :wave:
 
-Hi I am Qiki, I am a Research Engineer at Barcelona Supercomputing Center, I also graduated with Masters in Computer Science from the University of Edinburgh and a degree in Theoretical Physics from the University of Manchester. I am interested in High Performance Computing, Computer Architecture and AI. Besides that I am also an avid fan of Volleyball and Music. I worked on AI Systems and Vector Databases where I contributed in the development of Clustering Algorithms and now am developed a Vector Databse Indexing Algorithm and worked on Benchmarking at the AI Systems group in the University of Edinburgh.
-
-Now I am a Research Engineer at the esteemed Barcelona Supercomputing Center.
+Hi I am Qiki :)
 
 **Languages I am comfortable in**: *Python, C/C++, Solidity, LaTeX, CUDA, Java*
 
